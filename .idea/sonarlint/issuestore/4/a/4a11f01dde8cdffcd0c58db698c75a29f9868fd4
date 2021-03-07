@@ -1,0 +1,7 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(‡å¬ıÿÿÿÿ8Ò¿ù°€/
+Q
+java:S1068"4Remove this unused "MAINRESOURCEPATH" private field.(Ïºá¦8Ò¿ù°€/
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(“•´õ8Û„÷°€/
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(“•´õ8Ò¿ù°€/

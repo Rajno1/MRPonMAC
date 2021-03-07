@@ -1,0 +1,15 @@
+
+c
+java:S2142o"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8È¦À¦ı.
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(ùâëÒ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(Ë‘ÿ
+]
+java:S1854@";Remove this useless assignment to local variable "element".(’¢ÇÁşÿÿÿÿ8È¦À¦ı.
+C
+java:S1172"&Remove these unused method parameters.(éæŸ8Ç˜¬¿€/
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(–µ…úÿÿÿÿ8È¦À¦ı.
+]
+java:S1854d";Remove this useless assignment to local variable "element".(’¢ÇÁşÿÿÿÿ8È¦À¦ı.
+U	java:S106h"9Replace this use of System.out or System.err by a logger.(ìØÅª8È¦À¦ı.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(õÔôš
+o	java:S100t"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Øå×ıÿÿÿÿ8È¦À¦ı.

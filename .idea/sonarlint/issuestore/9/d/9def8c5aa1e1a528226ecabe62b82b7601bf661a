@@ -1,0 +1,6 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(—¯ù€
+Q	java:S125"<This block of commented-out lines of code should be removed.(ö«õÃ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(âŠÜŸýÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Ö§´Òúÿÿÿÿ
+V	java:S125)"<This block of commented-out lines of code should be removed.(ÇÝçÓúÿÿÿÿ
